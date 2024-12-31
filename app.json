@@ -1,4 +1,7 @@
 {
-  "name": "SignUpLoginApp",
-  "displayName": "SignUpLoginApp"
+  "expo": {
+    "name": "SignUpLoginApp",
+    "displayName": "SignUpLoginApp",
+    "platforms": ["ios", "android", "web"]
+  }
 }
